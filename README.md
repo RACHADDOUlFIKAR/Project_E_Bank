@@ -19,7 +19,7 @@ Les entités suivantes ont été créées :
 Customer : Représente un client avec des informations telles que nom, prénom, etc.<br><br>
 ![Capture3](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/4677e01c-0a49-4cd1-a0c0-001a1f88df21)<br>
 BankAccount : Représente un compte bancaire avec des informations telles que le solde, le numéro de compte, etc.<br><br>
-![Capture7](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/660a6101-3420-40c7-8b8c-2f6abbd3019e)
+![Capture7](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/660a6101-3420-40c7-8b8c-2f6abbd3019e)<br>
 SavingAccount : Représente un compte d'épargne et étend la classe BankAccount.<br><br>
 ![Capture4](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/98037977-f9df-41ee-a5fe-d7ea8c115ba5)<br>
 CurrentAccount : Représente un compte courant et étend la classe BankAccount.<br><br>
