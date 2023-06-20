@@ -45,6 +45,13 @@ Test de la couche DAO :
 Des tests ont été effectués pour vérifier le bon fonctionnement des méthodes définies dans les interfaces JPA Repository.
 Les opérations de création, récupération, mise à jour et suppression des entités ont été testées pour chaque repository.<br><br>
 ![Capture8](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/a7bf43cc-e542-42b8-a405-3ae6f548357a)
+
+![Capture21](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/e26b008b-2858-457a-a62d-33cef53fa5b7)
+
+![Capture22](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/c978a851-e342-4f7b-9474-78bb7461c802)
+
+![Capture23](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/9cd95cfb-338f-43bb-810e-6aa8c59bae74)
+
 <br>
 <h3>Partie 2 : Couche service, DTOs et RestController</h3>
 La couche service est responsable de la logique métier de l'application. Les DTOs (Data Transfer Objects) sont utilisés pour transférer les données entre les différentes couches de l'application. Le RestController permet d'exposer les services via des API REST. Voici les étapes suivies pour mettre en place cette couche :<br>
