@@ -93,3 +93,4 @@ Les méthodes appropriées ont été définies pour effectuer les opérations CR
 <h4>Suppression</h4>
 
 ![Capture20](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/a1cd77a3-3996-4360-b65f-a4aad7952002)
+<h2>II. Dans le Front-End</h2>
