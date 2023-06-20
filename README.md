@@ -4,7 +4,7 @@
 
 <h4>Introduction :</h4>
 L'objectif de ce projet est de créer une application de gestion de comptes bancaires en utilisant le framework Spring Boot. L'application permettra aux utilisateurs de gérer leurs comptes bancaires, d'effectuer des opérations de débit et de crédit, et de visualiser les informations liées à leurs comptes. Le projet est divisé en deux parties principales : la couche DAO (Data Access Object) et la couche service, DTOs et RestController.
-
+<h2>I. Dans le Back-End</h2>
 <h3>Partie 1 : Couche DAO</h3>
 La couche DAO est responsable de l'interaction avec la base de données et de la manipulation des entités. Voici les étapes suivies pour mettre en place cette couche :
 
