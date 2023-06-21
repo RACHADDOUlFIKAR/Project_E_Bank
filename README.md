@@ -40,7 +40,7 @@ AccountOperationRepository : Interface pour la manipulation des entités Account
 ![Capture2](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/d579479c-ee37-4c58-8428-02d93ef57305)
 
 
-Test de la couche DAO :
+Test des methodes :
 
 Des tests ont été effectués pour vérifier le bon fonctionnement des méthodes définies dans les interfaces JPA Repository.
 Les opérations de création, récupération, mise à jour et suppression des entités ont été testées pour chaque repository.<br><br>
@@ -77,7 +77,13 @@ Un RestController a été créé pour exposer les services via des API REST.
 Les méthodes appropriées ont été définies pour effectuer les opérations CRUD (Create, Read, Update, Delete) sur les entités.<br>
 <br>
 ![Capture15](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/366fdd12-1d4b-4ecf-9c50-022ecabbc585)
-<h3>TEST</h3>
+<h3>TEST de l'api avec deux méthodes swagger ou bien Insomnia</h3>
+<h4>swagger</h4>
+
+![Capture24](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/425f1fe8-8c1b-44dd-9015-1788013bfcaa)
+
+
+
 <h4>Affichage</h4>
 
 ![Capture16](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/9fa4eefc-f2bd-4abf-837e-72da30234367)
