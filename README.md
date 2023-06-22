@@ -100,3 +100,66 @@ Les méthodes appropriées ont été définies pour effectuer les opérations CR
 
 ![Capture20](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/a1cd77a3-3996-4360-b65f-a4aad7952002)
 <h2>II. Dans le Front-End</h2>
+<h4>-Créer un projet angular</h4>
+
+![Capture](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/04bd0831-48a9-481e-ad5b-5f422bd92c6b)
+
+<h4>-lancer le projet</h4>
+
+![Capture1](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/9ae3c8e7-bc8e-43d7-98be-a933937f636a)
+
+<h4>-Interface par default de angular</h4>
+
+![1_PwiaxUQKXBsmaYFD5OifuA](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/f26da12f-1e88-4b84-b303-72d2f6f8dadd)
+
+<h4>-Architecture par default du projet</h4>
+
+![Capture2](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/0f6bbbe4-e144-4feb-ae44-2b71007c0d47)
+
+<h4>-Générer les composants nécessaires à l'aide de la commande "ng g c navbar" par exemple</h4>
+
+![Capture3](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/4906940e-1068-4c56-abf3-ed6f0bbe205f)
+
+<h4>Creation d'un navbar</h4>
+
+![Capture4](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/c191565c-3333-476b-ab8b-1e220ef6e9bf)
+
+<h4>Pour configurer le système de routage permettant la navigation entre les composants</h4>
+
+![Capture5](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/ecc2e1cd-545c-475a-90f4-8aca818393d9)
+
+<h4>Afin d'afficher la liste des clients, il est nécessaire d'installer le module HttpClientModule pour permettre l'interaction avec la partie Backend et le chargement des données.</h4>
+
+![Capture6](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/9437d011-f7e0-4b9f-ad74-755e7555a6ca)
+
+<h4>Afficher la liste des clients à l'aide du code HTML</h4>
+
+![Capture7](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/870bb6d4-fb06-41af-af56-e1fb63d0b5ef)
+
+<h4>Créer les deux services appelés CustomerService et AccountService par la commande ng g s services/NOM pour pouvoir les injecter dans n'importe quel composant</h4>
+
+![Capture8](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/50722d10-0c20-4afe-988e-a80c96de3d25)
+
+![Capture9](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/6ae5728c-de6c-4c47-a39f-afc266eef6b9)
+
+<h4>Créez des classes dans le package "models" pour représenter le modèle de données.</h4>
+
+![Capture10](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/3b3b3422-486c-477b-ad3e-ec24e0f39f3c)
+
+
+![Capture11](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/087d1337-b308-4eba-9b8f-69c1e58fd8f3)
+
+<h4>Créer un fomulaire pour la recherche des clients</h4>
+
+![Capture12](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/1795682b-1c0c-45ef-bec7-72fec20f8a14)
+
+<h4>Créer un fomulaire pour d'ajout des clients</h4>
+
+![Capture13](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/2250268b-a927-483a-ac0e-5c6e00e66e05)
+
+<h4>Test des fonctionnalités</h4>
+
+![Capture14](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/b552dc3c-c9f7-416c-b643-bad5edf02c9a)
+
+![Capture15](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/8935f562-84e5-43ab-a8e1-ca59ecc6b225)
+
