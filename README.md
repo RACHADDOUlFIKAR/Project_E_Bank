@@ -163,3 +163,26 @@ Les méthodes appropriées ont été définies pour effectuer les opérations CR
 
 ![Capture15](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/8935f562-84e5-43ab-a8e1-ca59ecc6b225)
 
+<h4>Interface Compte et faire des operations</h4>
+
+![Capture25](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/f28b17c2-08bd-411e-8724-c5fe242ac88d)
+
+![Capture26](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/948a40a0-f94e-4f22-85c4-367838b66fe1)
+
+<h4>Assosier les méthodes suivantes</h4>
+
+![Capture27](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/7c1dbbbe-18b4-49e3-b578-f1cac69b7b8b)
+
+![Capture28](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/0c1aadb9-8b78-4588-8053-57659a16dbaf)
+
+<h4>Test des fonctionnalités</h4>
+
+![Capture29](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/cd0ac993-f6d6-428c-a903-ad4360d4f06a)
+
+![Capture30](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/6d5157c2-85b9-46cc-921d-97ab597ef3f4)
+
+
+
+
+
+
