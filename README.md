@@ -80,7 +80,8 @@ Les méthodes appropriées ont été définies pour effectuer les opérations CR
 <h3>TEST de l'api avec deux méthodes swagger ou bien Insomnia</h3>
 <h4>swagger</h4>
 
-![Capture24](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/425f1fe8-8c1b-44dd-9015-1788013bfcaa)
+
+![Capture24](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/6533b948-01f9-415e-9304-f65399a237fe)
 
 
 
@@ -102,84 +103,98 @@ Les méthodes appropriées ont été définies pour effectuer les opérations CR
 <h2>II. Dans le Front-End</h2>
 <h4>-Créer un projet angular</h4>
 
-![Capture](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/04bd0831-48a9-481e-ad5b-5f422bd92c6b)
+![Capture](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/b76fcd30-a17c-4527-977b-82367605f6b0)
+
 
 <h4>-lancer le projet</h4>
 
-![Capture1](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/9ae3c8e7-bc8e-43d7-98be-a933937f636a)
+![Capture1](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/c832c9ef-0522-43a4-8c42-ccbadf10ed7a)
+
+
 
 <h4>-Interface par default de angular</h4>
 
-![1_PwiaxUQKXBsmaYFD5OifuA](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/f26da12f-1e88-4b84-b303-72d2f6f8dadd)
+![1_PwiaxUQKXBsmaYFD5OifuA](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/d9b72c88-6cc8-447b-979f-dcfde6c82ed6)
+
 
 <h4>-Architecture par default du projet</h4>
 
-![Capture2](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/0f6bbbe4-e144-4feb-ae44-2b71007c0d47)
+![Capture2](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/ae97eba7-8c1f-4cdd-b2cc-4fcb2176568b)
+
 
 <h4>-Générer les composants nécessaires à l'aide de la commande "ng g c navbar" par exemple</h4>
 
-![Capture3](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/4906940e-1068-4c56-abf3-ed6f0bbe205f)
+![Capture3](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/8d5d5d93-fb91-4fc8-8cb8-d69093c59d9b)
+
 
 <h4>Creation d'un navbar</h4>
 
-![Capture4](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/c191565c-3333-476b-ab8b-1e220ef6e9bf)
+![Capture4](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/9c872135-810c-46ae-ad0b-b40013e32210)
+
 
 <h4>Pour configurer le système de routage permettant la navigation entre les composants</h4>
 
-![Capture5](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/ecc2e1cd-545c-475a-90f4-8aca818393d9)
+![Capture5](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/bc1f01bc-9feb-4196-9739-d52eb61735e1)
+
 
 <h4>Afin d'afficher la liste des clients, il est nécessaire d'installer le module HttpClientModule pour permettre l'interaction avec la partie Backend et le chargement des données.</h4>
 
-![Capture6](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/9437d011-f7e0-4b9f-ad74-755e7555a6ca)
+![Capture6](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/6b19d64c-972d-4619-a52e-46907ffe9abe)
+
 
 <h4>Afficher la liste des clients à l'aide du code HTML</h4>
 
-![Capture7](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/870bb6d4-fb06-41af-af56-e1fb63d0b5ef)
+![Capture7](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/cec21818-48cc-4f72-8904-e752eaed6d3a)
+
 
 <h4>Créer les deux services appelés CustomerService et AccountService par la commande ng g s services/NOM pour pouvoir les injecter dans n'importe quel composant</h4>
 
-![Capture8](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/50722d10-0c20-4afe-988e-a80c96de3d25)
+![Capture8](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/6f3d3b14-f14e-4c4d-9146-f51137bf6371)
 
-![Capture9](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/6ae5728c-de6c-4c47-a39f-afc266eef6b9)
+![Capture9](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/ceea3d7d-12b5-4842-97c0-bf2da5abcc83)
+
+
 
 <h4>Créez des classes dans le package "models" pour représenter le modèle de données.</h4>
 
-![Capture10](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/3b3b3422-486c-477b-ad3e-ec24e0f39f3c)
+![Capture10](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/a985b005-77e4-4587-b625-f9a1112c5bb3)
 
-
-![Capture11](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/087d1337-b308-4eba-9b8f-69c1e58fd8f3)
+![Capture11](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/8483bd35-3a8c-44ee-aa1c-855a601a2b1a)
 
 <h4>Créer un fomulaire pour la recherche des clients</h4>
 
-![Capture12](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/1795682b-1c0c-45ef-bec7-72fec20f8a14)
+![Capture12](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/4c283c05-d3dc-4d0e-841e-be8066b27a62)
+
 
 <h4>Créer un fomulaire pour d'ajout des clients</h4>
 
-![Capture13](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/2250268b-a927-483a-ac0e-5c6e00e66e05)
+![Capture13](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/6f835b36-54ca-4209-a212-901de7b831c1)
+
 
 <h4>Test des fonctionnalités</h4>
 
-![Capture14](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/b552dc3c-c9f7-416c-b643-bad5edf02c9a)
+![Capture14](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/e451b984-4cde-482b-aa4d-dfceee98a66e)
 
-![Capture15](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/8935f562-84e5-43ab-a8e1-ca59ecc6b225)
+![Capture15](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/59d433c1-4458-4934-9070-47a51c544c07)
 
 <h4>Interface Compte et faire des operations</h4>
 
-![Capture25](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/f28b17c2-08bd-411e-8724-c5fe242ac88d)
+![Capture25](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/e09a3def-10af-4189-a7b3-3b975e0cacb0)
 
-![Capture26](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/948a40a0-f94e-4f22-85c4-367838b66fe1)
+![Capture26](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/469620d6-f0fc-4bb8-84fb-bc7aa637f1d8)
 
 <h4>Assosier les méthodes suivantes</h4>
 
-![Capture27](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/7c1dbbbe-18b4-49e3-b578-f1cac69b7b8b)
+![Capture27](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/b14d4dab-bf4a-46ed-a709-a7a33148fb95)
 
-![Capture28](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/0c1aadb9-8b78-4588-8053-57659a16dbaf)
+![Capture28](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/9903cc76-6082-4738-b6a0-d7487a130e1a)
 
 <h4>Test des fonctionnalités</h4>
 
-![Capture29](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/cd0ac993-f6d6-428c-a903-ad4360d4f06a)
+![Capture29](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/f823ea48-4a2e-4d74-b6b8-6ee0e1562b98)
 
-![Capture30](https://github.com/RACHADDOUlFIKAR/Project_E_Bank/assets/97551741/6d5157c2-85b9-46cc-921d-97ab597ef3f4)
+![Capture30](https://github.com/RACHADDOUlFIKAR/Project_E_Banking/assets/97551741/6b870eeb-5467-4094-998c-17943af7744f)
+
 
 
 
